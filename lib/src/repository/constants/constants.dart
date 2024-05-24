@@ -1,0 +1,1 @@
+final String SPLASH_SCREEN = 'assets/images/splash.png';
